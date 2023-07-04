@@ -1,0 +1,48 @@
+
+.container {
+    background-color:honeydew;
+width: 80%;
+margin: 0 auto;
+padding: 20px;
+b
+}
+
+.header {
+    background-color:aliceblue;
+text-align: center;
+margin-bottom: 20px;
+}
+
+.content {
+margin-bottom: 20px;
+}
+
+.info {
+    background-color:aliceblue;
+margin-bottom: 10px;
+}
+
+.info label {
+font-weight: bold;
+}
+
+.skills {
+    background-color: aliceblue;
+list-style-type: disc;
+margin-left: 20px;
+margin-bottom: 10px;
+}
+
+.projects {
+    background-color: aliceblue;
+margin-top: 10px;
+}
+
+.project {
+
+margin-bottom: 10px;
+}
+
+.project h3 {
+margin-bottom: 5px;
+}
